@@ -2,10 +2,10 @@
 
 ## TODO
 
- ..* Update the diagram
- ..* Fix the dynamoDB deployment
- ..* Fix the userdata apache_install.sh change thew webpage correctly
- ..* Generate terraform-docs 
+ + Update the diagram
+ + Fix the dynamoDB deployment
+ + Fix the userdata apache_install.sh change thew webpage correctly
+ + Generate terraform-docs 
 
 ## What is this?
 
