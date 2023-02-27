@@ -6,6 +6,7 @@
  + Fix the dynamoDB deployment
  + Fix the userdata apache_install.sh change thew webpage correctly
  + Generate terraform-docs 
+ + Create a more userfriendly version with tfvars
 
 ## What is this?
 
